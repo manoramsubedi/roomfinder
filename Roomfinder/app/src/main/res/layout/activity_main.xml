@@ -32,6 +32,7 @@
     <Button
         android:layout_width="350dp"
         android:layout_height="50dp"
+        android:id="@+id/button"
         android:background="@drawable/button"
         android:text="Login"
         android:textSize="18dp"
@@ -42,6 +43,7 @@
     <Button
         android:layout_width="350dp"
         android:layout_height="50dp"
+        android:id="@+id/btnR"
         android:background="@drawable/button"
         android:text="Register"
         android:textSize="18dp"
